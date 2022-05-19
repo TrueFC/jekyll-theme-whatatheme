@@ -1,0 +1,17 @@
+*.gem
+*~
+.bundle
+.jekyll-cache
+.sass-cache
+_site
+Gemfile.lock
+404.md
+Gemfile
+_data
+_posts
+blog.md
+index.md
+project.md
+search.json
+test-page.md
+
